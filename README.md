@@ -12,8 +12,8 @@ Key Features
 
 
 Tech Stack
-React.js
-Tailwind CSS, DaisyUI
-JavaScript (ES6+)
-React-Toastify (NPM Package)
-JSON (for product data)
+1. React.js
+2. Tailwind CSS, DaisyUI
+3. JavaScript (ES6+)
+4. React-Toastify (NPM Package)
+5. JSON (for product data)
